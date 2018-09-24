@@ -1,0 +1,45 @@
+/* PRINCIPAL */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+/* HEADER */
+
+  /* NAVBAR */
+  .navbar {
+    background: rgba(0, 0, 0, 0.8);
+  }
+
+  .navbar-collapse {
+    border-top: 1px solid #fff;
+  }
+
+/* BODY */
+.main-title {
+  margin: 0 50px;
+}
+
+hr {
+  margin: 0 20px 20px;
+  background-color: #fff;
+  border-top: 2px solid #000;
+}
+
+.page {
+  margin: 80px 0;
+  min-height: 600px;
+}
+
+.page>.row>p {
+  padding: 10px!important;
+}
+
+/* FOOTER */
+.footer {
+  background-color: rgba(0, 0, 0, 0.8);
+  margin: 0px;
+  padding: 0px;
+  color: #fff;
+  vertical-align: bottom;
+}
