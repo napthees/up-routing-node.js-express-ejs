@@ -6,6 +6,7 @@ Website Pages Routing with Node.js, Express, Bootstrap and EJS
 ```
   body-parser@1.18.3
   bootstrap@4.1.3
+  cookie-session@1.3.2
   ejs@2.6.1
   express@4.16.3
   jquery@3.3.1
