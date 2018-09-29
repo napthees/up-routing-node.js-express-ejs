@@ -7,9 +7,7 @@ Website Pages Routing with Node.js, Express, Bootstrap and EJS
 ## Dependencies
 
 ```
-  body-parser@1.18.3
   bootstrap@4.1.3
-  cookie-session@1.3.2
   ejs@2.6.1
   express@4.16.3
   jquery@3.3.1
@@ -39,7 +37,6 @@ Website Pages Routing with Node.js, Express, Bootstrap and EJS
  -- app.js
  -- package.json
  -- package-lock.json
- -- node_modules
 ```
 ## Install and Start
 
