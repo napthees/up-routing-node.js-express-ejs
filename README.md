@@ -7,11 +7,11 @@ Website Pages Routing with Node.js, Express, Bootstrap and EJS
 ## Dependencies
 
 ```
-  bootstrap@4.1.3
-  ejs@2.6.1
-  express@4.16.3
-  jquery@3.3.1
-  popper.js@1.14.4
+    "bootstrap": "^4.4.1",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
 ```
 
 ## Structure Project
