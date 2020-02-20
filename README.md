@@ -2,7 +2,9 @@
 
 [![Known Vulnerabilities](https://snyk.io/test/github/napthees/up-routing-node.js-express-ejs/badge.svg?targetFile=package.json)](https://snyk.io/test/github/napthees/up-routing-node.js-express-ejs?targetFile=package.json)
 
-There is a matter for this application. Maybe will fix later.
+There is a matter for this application. Maybe we will fix later.
+
+Or how much are you giving us to do it now?
 
 # Description of the application "Up routing with node.js, express, bootstrap & ejs!"
 
