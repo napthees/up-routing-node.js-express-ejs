@@ -2,9 +2,13 @@
 
 [![Known Vulnerabilities](https://snyk.io/test/github/napthees/up-routing-node.js-express-ejs/badge.svg?targetFile=package.json)](https://snyk.io/test/github/napthees/up-routing-node.js-express-ejs?targetFile=package.json)
 
-There is a matter for this application. Maybe we will fix later.
+To solve this you need to tell JSHint your project is developed in ES6 by creating the .jshintrc file to the root project directory with the below config:
 
-Or how much are you giving us to do it now?
+```
+{
+  "esversion": 6
+}
+```
 
 # Description of the application "Up routing with node.js, express, bootstrap & ejs!"
 
