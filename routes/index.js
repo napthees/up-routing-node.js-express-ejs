@@ -2,17 +2,17 @@ const express = require('express');
 const router = express.Router();
 
 router.get('/', (req, res) => {
-  console.log('Demande de la page Accueil re?ue');
+  console.log('Demande de la page Accueil relue');
   res.render('index');
 });
 
 router.get('/about', (req, res) => {
-  console.log('Demande de la page Ãÿ Propos re?ue');
+  console.log('Demande de la page Ã€ Propos relue');
   res.render('about');
 });
 
 router.get('/contact', (req, res) => {
-  console.log('Demande de la page Contact re?ue');
+  console.log('Demande de la page Contact relue');
   res.render('contact');
 });
 
